@@ -11,7 +11,7 @@ int main()
 {
     int a, b, temp;
     scanf("%d%d", &a, &b);
-
+  printf(" %d %d are the values of a and b before swaqpping\n",a,b);
     //Write your code here
       temp=a;
       a=b;
@@ -19,6 +19,6 @@ int main()
     
 
   
-    printf("%d %d\n", a, b);
+    printf("%d %d are the value of a and b after swapping\n", a, b);
     return 0;
 }
