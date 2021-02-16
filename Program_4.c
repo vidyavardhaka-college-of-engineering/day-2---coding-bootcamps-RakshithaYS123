@@ -3,7 +3,7 @@
 //L1 = 10
 //L2 = 20
 
-#include<stdio.h>;
+#include<stdio.h>
 int main()
 {
 //Write your code below this line
@@ -12,7 +12,7 @@ int L2=20;
 printf("%d\n,L1");
 printf("%d\n,L2");
 
-printf("Good Job..")
+
 
 return 0;
 }
